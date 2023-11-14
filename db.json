@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "123456789",
+      "addressLines": ["123 Street", "XYZ Colony", "City A"]
+    },
+    {
+      "id": 2,
+      "name": "Maria Gomez",
+      "phone": "987654321",
+      "addressLines": ["ABC Avenue", "WXY Colony", "City B"]
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodriguez",
+      "phone": "555555555",
+      "addressLines": ["ZZZ Street", "QWE Colony", "City C"]
+    },
+    {
+      "id": 4,
+      "name": "Ana Sanchez",
+      "phone": "777777777",
+      "addressLines": ["MNO Avenue", "DEF Colony", "City D"]
+    },
+    {
+      "id": 5,
+      "name": "Luis Hernandez",
+      "phone": "444444444",
+      "addressLines": ["456 Street", "UVW Colony", "City E"]
+    },
+    {
+      "id": 6,
+      "name": "Elena Torres",
+      "phone": "666666666",
+      "addressLines": ["GHI Avenue", "JKL Colony", "City F"]
+    },
+    {
+      "id": 7,
+      "name": "Javier Mendez",
+      "phone": "222222222",
+      "addressLines": ["789 Street", "PQR Colony", "City G"]
+    },
+    {
+      "id": 8,
+      "name": "Sofia Ramirez",
+      "phone": "999999999",
+      "addressLines": ["STU Avenue", "LMN Colony", "City H"]
+    },
+    {
+      "id": 9,
+      "name": "Pedro Lopez",
+      "phone": "333333333",
+      "addressLines": ["012 Street", "YZA Colony", "City I"]
+    },
+    {
+      "id": 10,
+      "name": "Carmen Garcia",
+      "phone": "888888888",
+      "addressLines": ["EFG Avenue", "BCD Colony", "City J"]
+    }
+  ]

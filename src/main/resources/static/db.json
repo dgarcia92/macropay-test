@@ -1,0 +1,154 @@
+{
+  "contactos": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "telefono": "123456789",
+      "addressLines": ["Calle 123", "Colonia XYZ", "Ciudad A"]
+    },
+    {
+      "id": 2,
+      "nombre": "María Gómez",
+      "telefono": "987654321",
+      "addressLines": ["Avenida ABC", "Colonia WXY", "Ciudad B"]
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rodríguez",
+      "telefono": "555555555",
+      "addressLines": ["Calle ZZZ", "Colonia QWE", "Ciudad C"]
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Sánchez",
+      "telefono": "777777777",
+      "addressLines": ["Avenida MNO", "Colonia DEF", "Ciudad D"]
+    },
+    {
+      "id": 5,
+      "nombre": "Luis Hernández",
+      "telefono": "444444444",
+      "addressLines": ["Calle 456", "Colonia UVW", "Ciudad E"]
+    },
+    {
+      "id": 6,
+      "nombre": "Elena Torres",
+      "telefono": "666666666",
+      "addressLines": ["Avenida GHI", "Colonia JKL", "Ciudad F"]
+    },
+    {
+      "id": 7,
+      "nombre": "Javier Méndez",
+      "telefono": "222222222",
+      "addressLines": ["Calle 789", "Colonia PQR", "Ciudad G"]
+    },
+    {
+      "id": 8,
+      "nombre": "Sofía Ramírez",
+      "telefono": "999999999",
+      "addressLines": ["Avenida STU", "Colonia LMN", "Ciudad H"]
+    },
+    {
+      "id": 9,
+      "nombre": "Pedro López",
+      "telefono": "333333333",
+      "addressLines": ["Calle 012", "Colonia YZA", "Ciudad I"]
+    },
+    {
+      "id": 10,
+      "nombre": "Carmen García",
+      "telefono": "888888888",
+      "addressLines": ["Avenida EFG", "Colonia BCD", "Ciudad J"]
+    },
+    {
+      "id": 11,
+      "nombre": "Miguel Martínez",
+      "telefono": "666666666",
+      "addressLines": ["Calle 345", "Colonia RST", "Ciudad K"]
+    },
+    {
+      "id": 12,
+      "nombre": "Laura Castro",
+      "telefono": "111111111",
+      "addressLines": ["Avenida UVW", "Colonia HIJ", "Ciudad L"]
+    },
+    {
+      "id": 13,
+      "nombre": "Ricardo Vargas",
+      "telefono": "777777777",
+      "addressLines": ["Calle 678", "Colonia KLM", "Ciudad M"]
+    },
+    {
+      "id": 14,
+      "nombre": "Isabel Ortega",
+      "telefono": "444444444",
+      "addressLines": ["Avenida NOP", "Colonia GHI", "Ciudad N"]
+    },
+    {
+      "id": 15,
+      "nombre": "Alejandro Ruiz",
+      "telefono": "222222222",
+      "addressLines": ["Calle 901", "Colonia XYZ", "Ciudad O"]
+    },
+    {
+      "id": 16,
+      "nombre": "Patricia Flores",
+      "telefono": "555555555",
+      "addressLines": ["Avenida QWE", "Colonia DEF", "Ciudad P"]
+    },
+    {
+      "id": 17,
+      "nombre": "Roberto Torres",
+      "telefono": "888888888",
+      "addressLines": ["Calle 234", "Colonia MNO", "Ciudad Q"]
+    },
+    {
+      "id": 18,
+      "nombre": "Monica Herrera",
+      "telefono": "111111111",
+      "addressLines": ["Avenida JKL", "Colonia PQR", "Ciudad R"]
+    },
+    {
+      "id": 19,
+      "nombre": "Daniel Vázquez",
+      "telefono": "999999999",
+      "addressLines": ["Calle 567", "Colonia STU", "Ciudad S"]
+    },
+    {
+      "id": 20,
+      "nombre": "Silvia Medina",
+      "telefono": "333333333",
+      "addressLines": ["Avenida YZA", "Colonia LMN", "Ciudad T"]
+    },
+    {
+      "id": 21,
+      "nombre": "Fernando Cruz",
+      "telefono": "777777777",
+      "addressLines": ["Calle 890", "Colonia BCD", "Ciudad U"]
+    },
+    {
+      "id": 22,
+      "nombre": "Eva Jiménez",
+      "telefono": "444444444",
+      "addressLines": ["Avenida RST", "Colonia HIJ", "Ciudad V"]
+    },
+    {
+      "id": 23,
+      "nombre": "Hector Morales",
+      "telefono": "666666666",
+      "addressLines": ["Calle 123", "Colonia NOP", "Ciudad W"]
+    },
+    {
+      "id": 24,
+      "nombre": "Adriana Soto",
+      "telefono": "222222222",
+      "addressLines": ["Avenida XYZ", "Colonia GHI", "Ciudad X"]
+    },
+    {
+      "id": 25,
+      "nombre": "Oscar Núñez",
+      "telefono": "555555555",
+      "addressLines": ["Calle ABC", "Colonia DEF", "Ciudad Y"]
+    }
+  ]
+}
